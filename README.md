@@ -1,5 +1,7 @@
 # Clone do discord em React
 
+<a href="https://superlative-horse-89fa82.netlify.app/" target="_blank">Deploy</a>
+
 ## Techs:
 
 - React
@@ -7,4 +9,4 @@
 - styled-components
 - react-icons
 
-### Apenas uma interface do discord para melhora minhas skills em TS
+### Apenas uma interface do discord para melhorar minhas skills em TS
